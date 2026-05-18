@@ -7,7 +7,7 @@ X-WR-CALNAME:Jeroen – Planning Lossez
 X-WR-TIMEZONE:Europe/Amsterdam
 BEGIN:VEVENT
 UID:planning-23@lossez
-DTSTAMP:20260518T224024Z
+DTSTAMP:20260518T224033Z
 DTSTART;VALUE=DATE:20260527
 DTEND;VALUE=DATE:20260528
 SUMMARY:Boulanger – Perslucht nooduit
@@ -15,7 +15,7 @@ DESCRIPTION:Monteur: Jeroen\\nStatus: Nog inplannen\\nPrioriteit: Gemiddeld\\nOp
 END:VEVENT
 BEGIN:VEVENT
 UID:planning-59@lossez
-DTSTAMP:20260518T224024Z
+DTSTAMP:20260518T224033Z
 DTSTART;VALUE=DATE:20260526
 DTEND;VALUE=DATE:20260527
 SUMMARY:Chásse Theater – Veiligheidsstrip plaatsen
@@ -23,7 +23,7 @@ DESCRIPTION:Monteur: Jeroen\\nStatus: Wachten op materiaal\\nPrioriteit: Storing
 END:VEVENT
 BEGIN:VEVENT
 UID:planning-61@lossez
-DTSTAMP:20260518T224024Z
+DTSTAMP:20260518T224033Z
 DTSTART;VALUE=DATE:20260601
 DTEND;VALUE=DATE:20260603
 SUMMARY:Boulanger – Hazelnoot tank kastje
@@ -31,23 +31,15 @@ DESCRIPTION:Monteur: Jeroen\\nStatus: Nog inplannen\\nPrioriteit: Laag
 END:VEVENT
 BEGIN:VEVENT
 UID:planning-62@lossez
-DTSTAMP:20260518T224024Z
+DTSTAMP:20260518T224033Z
 DTSTART;VALUE=DATE:20260602
 DTEND;VALUE=DATE:20260604
 SUMMARY:Boulanger – Andere kleine tank kastje aanpassen
 DESCRIPTION:Monteur: Jeroen\\nStatus: Nog inplannen\\nPrioriteit: Laag\\nOpmerking: Zelfde als hazelnoot tank kastje.
 END:VEVENT
 BEGIN:VEVENT
-UID:planning-63@lossez
-DTSTAMP:20260518T224024Z
-DTSTART;VALUE=DATE:20260603
-DTEND;VALUE=DATE:20260610
-SUMMARY:Boulanger – Knoppen lijn 5 vervangen
-DESCRIPTION:Monteur: Jeroen\\nStatus: Nog inplannen\\nPrioriteit: Laag\\nOpmerking: Alle knoppen behalve de werkschakelaar vervangen
-END:VEVENT
-BEGIN:VEVENT
 UID:planning-204@lossez
-DTSTAMP:20260518T224024Z
+DTSTAMP:20260518T224033Z
 DTSTART;VALUE=DATE:20260615
 DTEND;VALUE=DATE:20260618
 SUMMARY:Boulanger – Krachtstekkers plaatsen
