@@ -7,18 +7,10 @@ X-WR-CALNAME:Jeroen – Planning Lossez
 X-WR-TIMEZONE:Europe/Amsterdam
 BEGIN:VEVENT
 UID:planning-59@lossez
-DTSTAMP:20260526T131609Z
+DTSTAMP:20260526T131614Z
 DTSTART;VALUE=DATE:20260526
 DTEND;VALUE=DATE:20260527
 SUMMARY:Chásse Theater – Veiligheidsstrip plaatsen
 DESCRIPTION:Monteur: Jeroen\nStatus: Wachten op materiaal\nPrioriteit: Storing
-END:VEVENT
-BEGIN:VEVENT
-UID:planning-204@lossez
-DTSTAMP:20260526T131609Z
-DTSTART;VALUE=DATE:20260615
-DTEND;VALUE=DATE:20260618
-SUMMARY:Boulanger – Krachtstekkers plaatsen
-DESCRIPTION:Monteur: Jeroen\nStatus: In behandeling\nPrioriteit: Laag
 END:VEVENT
 END:VCALENDAR
