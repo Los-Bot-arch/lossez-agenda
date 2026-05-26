@@ -7,7 +7,7 @@ X-WR-CALNAME:Alle taken – Planning Lossez
 X-WR-TIMEZONE:Europe/Amsterdam
 BEGIN:VEVENT
 UID:planning-59@lossez
-DTSTAMP:20260526T131609Z
+DTSTAMP:20260526T131614Z
 DTSTART;VALUE=DATE:20260526
 DTEND;VALUE=DATE:20260527
 SUMMARY:Chásse Theater – Veiligheidsstrip plaatsen
@@ -15,7 +15,7 @@ DESCRIPTION:Monteur: Jeroen\nStatus: Wachten op materiaal\nPrioriteit: Storing
 END:VEVENT
 BEGIN:VEVENT
 UID:planning-64@lossez
-DTSTAMP:20260526T131609Z
+DTSTAMP:20260526T131614Z
 DTSTART;VALUE=DATE:20260522
 DTEND;VALUE=DATE:20260523
 SUMMARY:Vinted GO – Intercom systeem
@@ -23,7 +23,7 @@ DESCRIPTION:Monteur: Stefano\nStatus: In behandeling\nPrioriteit: Gemiddeld\nOpm
 END:VEVENT
 BEGIN:VEVENT
 UID:planning-65@lossez
-DTSTAMP:20260526T131609Z
+DTSTAMP:20260526T131614Z
 DTSTART;VALUE=DATE:20260518
 DTEND;VALUE=DATE:20260519
 SUMMARY:Boulanger – Uitbereiding offerte! accu
@@ -31,18 +31,10 @@ DESCRIPTION:Status: In behandeling\nPrioriteit: Urgent\nOpmerking: Iets laten we
 END:VEVENT
 BEGIN:VEVENT
 UID:planning-202@lossez
-DTSTAMP:20260526T131609Z
+DTSTAMP:20260526T131614Z
 DTSTART;VALUE=DATE:20260518
 DTEND;VALUE=DATE:20260519
 SUMMARY:Ignaz – Meterkast
 DESCRIPTION:Monteur: Stefano\nStatus: In behandeling\nPrioriteit: Urgent
-END:VEVENT
-BEGIN:VEVENT
-UID:planning-204@lossez
-DTSTAMP:20260526T131609Z
-DTSTART;VALUE=DATE:20260615
-DTEND;VALUE=DATE:20260618
-SUMMARY:Boulanger – Krachtstekkers plaatsen
-DESCRIPTION:Monteur: Jeroen\nStatus: In behandeling\nPrioriteit: Laag
 END:VEVENT
 END:VCALENDAR
