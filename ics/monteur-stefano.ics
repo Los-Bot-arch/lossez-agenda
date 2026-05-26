@@ -7,18 +7,18 @@ X-WR-CALNAME:Stefano – Planning Lossez
 X-WR-TIMEZONE:Europe/Amsterdam
 BEGIN:VEVENT
 UID:planning-64@lossez
-DTSTAMP:20260518T224033Z
+DTSTAMP:20260526T131547Z
 DTSTART;VALUE=DATE:20260522
 DTEND;VALUE=DATE:20260523
 SUMMARY:Vinted GO – Intercom systeem
-DESCRIPTION:Monteur: Stefano\\nStatus: In behandeling\\nPrioriteit: Gemiddeld\\nOpmerking: Uitzoeken wat het beste is wat ik met Youssef heb besproken
+DESCRIPTION:Monteur: Stefano\nStatus: In behandeling\nPrioriteit: Gemiddeld\nOpmerking: Uitzoeken wat het beste is wat ik met Youssef heb besproken
 END:VEVENT
 BEGIN:VEVENT
 UID:planning-202@lossez
-DTSTAMP:20260518T224033Z
+DTSTAMP:20260526T131547Z
 DTSTART;VALUE=DATE:20260518
 DTEND;VALUE=DATE:20260519
 SUMMARY:Ignaz – Meterkast
-DESCRIPTION:Monteur: Stefano\\nStatus: In behandeling\\nPrioriteit: Urgent
+DESCRIPTION:Monteur: Stefano\nStatus: In behandeling\nPrioriteit: Urgent
 END:VEVENT
 END:VCALENDAR
