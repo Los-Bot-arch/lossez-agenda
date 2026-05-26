@@ -7,23 +7,15 @@ X-WR-CALNAME:Jeroen – Planning Lossez
 X-WR-TIMEZONE:Europe/Amsterdam
 BEGIN:VEVENT
 UID:planning-59@lossez
-DTSTAMP:20260526T131601Z
+DTSTAMP:20260526T131609Z
 DTSTART;VALUE=DATE:20260526
 DTEND;VALUE=DATE:20260527
 SUMMARY:Chásse Theater – Veiligheidsstrip plaatsen
 DESCRIPTION:Monteur: Jeroen\nStatus: Wachten op materiaal\nPrioriteit: Storing
 END:VEVENT
 BEGIN:VEVENT
-UID:planning-62@lossez
-DTSTAMP:20260526T131601Z
-DTSTART;VALUE=DATE:20260602
-DTEND;VALUE=DATE:20260604
-SUMMARY:Boulanger – Andere kleine tank kastje aanpassen
-DESCRIPTION:Monteur: Jeroen\nStatus: Nog inplannen\nPrioriteit: Laag\nOpmerking: Zelfde als hazelnoot tank kastje.
-END:VEVENT
-BEGIN:VEVENT
 UID:planning-204@lossez
-DTSTAMP:20260526T131601Z
+DTSTAMP:20260526T131609Z
 DTSTART;VALUE=DATE:20260615
 DTEND;VALUE=DATE:20260618
 SUMMARY:Boulanger – Krachtstekkers plaatsen
